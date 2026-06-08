@@ -1,0 +1,46 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+enu/
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
